@@ -1,0 +1,1 @@
+def generate_benefits_block(product): return product['benefits']

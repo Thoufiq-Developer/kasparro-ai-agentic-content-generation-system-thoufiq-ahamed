@@ -1,0 +1,1 @@
+def extract_usage_block(product): return product['usage']
