@@ -1,0 +1,5 @@
+langchain==0.2.16
+langchain-community==0.2.16
+transformers==4.41.2
+torch
+python-dotenv
