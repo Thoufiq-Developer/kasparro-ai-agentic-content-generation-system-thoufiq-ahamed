@@ -1,3 +1,4 @@
+## System Performance:
 Given a single product dataset (GlowBoost Vitamin C Serum), the system automatically:
 
 - Cleans and structures the raw product data
@@ -18,7 +19,7 @@ Instead of using one large function or one prompt, the system is split into
 
 This makes the system easier to understand, debug, and extend.
 
-**How the system works (simple explanation)**
+## How the system works (simple explanation)
 
 1. Product data is given as input
 2. The data parser agent cleans and normalizes it
